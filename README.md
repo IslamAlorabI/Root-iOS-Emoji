@@ -1,3 +1,4 @@
+# This project based on the original work by [Keinta15](https://github.com/Keinta15/Magisk-iOS-Emoji)
 # Root-iOS-Emoji
 Systemlessly replaces the Android emoji font with iOS Emoji.
 
