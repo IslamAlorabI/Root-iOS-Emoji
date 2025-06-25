@@ -56,10 +56,16 @@ service_exists() {
 
 # Log script header
 log "================================================"
-log "iOS Emoji 18.4 service.sh Script"
-log "Brand: $(getprop ro.product.brand)"
-log "Device: $(getprop ro.product.model)"
-log "Android Version: $(getprop ro.build.version.release)"
+log "Manufacturer: $(getprop ro.product.manufacturer)"
+log "Device Codename: $(getprop ro.product.device)"
+log "Board Platform: $(getprop ro.board.platform)"
+log "Build ID: $(getprop ro.build.display.id)"
+log "Build Fingerprint: $(getprop ro.build.fingerprint)"
+log "Build Date: $(getprop ro.build.date)"
+log "Kernel Version: $(uname -r)"
+log "CPU Architecture: $(getprop ro.product.cpu.abi)"
+log "RAM Info: $(grep MemTotal /proc/meminfo)"
+log "SELinux Status: $(getenforce)"
 log "================================================"
 
 # Wait until the device has completed booting
