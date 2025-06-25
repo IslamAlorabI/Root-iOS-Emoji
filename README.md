@@ -1,11 +1,6 @@
 # Root-iOS-Emoji
 Systemlessly replaces the emoji font with iOS Emoji.
 
-[![Stars](https://img.shields.io/github/stars/IslamAlorabI/Root-iOS-Emoji?label=Stars&color=blue)](https://github.com/IslamAlorabI/Root-iOS-Emoji)
-[![Release](https://img.shields.io/github/v/release/IslamAlorabI/Root-iOS-Emoji?label=Release&logo=github)](https://github.com/IslamAlorabI/Root-iOS-Emoji/releases/latest)
-[![Download](https://img.shields.io/github/downloads/IslamAlorabI/Root-iOS-Emoji/total?label=Downloads&logo=github)](https://github.com/IslamAlorabI/Root-iOS-Emoji/releases/)
-
-
 ## Installation
 1. Download the latest release from the [Releases page](https://github.com/IslamAlorabI/Root-iOS-Emoji/releases).
 2. Open the Magisk app.
