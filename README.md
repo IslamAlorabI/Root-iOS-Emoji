@@ -1,16 +1,16 @@
-# Magisk-iOS-Emoji
+# Root-iOS-Emoji
 Systemlessly replaces the emoji font with iOS Emoji.
 
-[![Stars](https://img.shields.io/github/stars/Keinta15/Magisk-iOS-Emoji?label=Stars&color=blue)](https://github.com/Keinta15/Magisk-iOS-Emoji)
-[![Release](https://img.shields.io/github/v/release/Keinta15/Magisk-iOS-Emoji?label=Release&logo=github)](https://github.com/Keinta15/Magisk-iOS-Emoji/releases/latest)
-[![Download](https://img.shields.io/github/downloads/Keinta15/Magisk-iOS-Emoji/total?label=Downloads&logo=github)](https://github.com/Keinta15/Magisk-iOS-Emoji/releases/)
+[![Stars](https://img.shields.io/github/stars/IslamAlorabI/Root-iOS-Emoji?label=Stars&color=blue)](https://github.com/IslamAlorabI/Root-iOS-Emoji)
+[![Release](https://img.shields.io/github/v/release/IslamAlorabI/Root-iOS-Emoji?label=Release&logo=github)](https://github.com/IslamAlorabI/Root-iOS-Emoji/releases/latest)
+[![Download](https://img.shields.io/github/downloads/IslamAlorabI/Root-iOS-Emoji/total?label=Downloads&logo=github)](https://github.com/IslamAlorabI/Root-iOS-Emoji/releases/)
 
 > [!TIP]
 > Contributions are welcome! If you'd like to help improve this module, feel free to submit a pull request. Check out the [Contributing](#contributing) section for more details.
 
 
 ## Installation
-1. Download the latest release from the [Releases page](https://github.com/Keinta15/Magisk-iOS-Emoji/releases/latest).
+1. Download the latest release from the [Releases page](https://github.com/IslamAlorabI/Root-iOS-Emoji/releases).
 2. Open the Magisk app.
 3. Go to **Modules** → **Install from storage** and select the downloaded ZIP file.
 4. Reboot your device.
@@ -141,4 +141,4 @@ Contributions are welcome! If you'd like to contribute, please:
 Please ensure your code includes relevant documentation.
 
 ## License
-This project is licensed under the [MIT License](https://github.com/Keinta15/Magisk-iOS-Emoji/blob/main/LICENSE). Feel free to use, modify, and distribute it as per the license terms.
+This project is licensed under the [MIT License](https://github.com/IslamAlorabI/Root-iOS-Emoji/blob/main/LICENSE). Feel free to use, modify, and distribute it as per the license terms.
