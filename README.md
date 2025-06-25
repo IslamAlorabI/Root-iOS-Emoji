@@ -5,9 +5,6 @@ Systemlessly replaces the emoji font with iOS Emoji.
 [![Release](https://img.shields.io/github/v/release/IslamAlorabI/Root-iOS-Emoji?label=Release&logo=github)](https://github.com/IslamAlorabI/Root-iOS-Emoji/releases/latest)
 [![Download](https://img.shields.io/github/downloads/IslamAlorabI/Root-iOS-Emoji/total?label=Downloads&logo=github)](https://github.com/IslamAlorabI/Root-iOS-Emoji/releases/)
 
-> [!TIP]
-> Contributions are welcome! If you'd like to help improve this module, feel free to submit a pull request. Check out the [Contributing](#contributing) section for more details.
-
 
 ## Installation
 1. Download the latest release from the [Releases page](https://github.com/IslamAlorabI/Root-iOS-Emoji/releases).
