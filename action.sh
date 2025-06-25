@@ -4,7 +4,7 @@ MODPATH="${0%/*}"
 set +o standalone 2>/dev/null
 unset ASH_STANDALONE 2>/dev/null
 
-# Validate required script exists
+# Validate the required script exists
 SCRIPT="$MODPATH/service.sh"
 if [ ! -f "$SCRIPT" ]; then
     echo -e "\nERROR: Missing service.sh" >&2
