@@ -1,12 +1,12 @@
 # Root-iOS-Emoji
-Systemlessly replaces the emoji font with iOS Emoji.
+Systemlessly replaces the Android emoji font with iOS Emoji.
 
 ## Installation
 1. Download the latest release from the [Releases page](https://github.com/IslamAlorabI/Root-iOS-Emoji/releases).
-2. Open the Magisk app.
+2. Open the Magisk / KernelSU (Official) / APatch / KernelSU Next (Unofficial).
 3. Go to **Modules** → **Install from storage** and select the downloaded ZIP file.
 4. Reboot your device.
-5. Enjoy iOS emojis system-wide!
+5. Enjoy iOS emojis system-wide and Apps!
 
 ## Compatibility
 - **Magisk Version**: Requires Magisk v24.0 or higher.
