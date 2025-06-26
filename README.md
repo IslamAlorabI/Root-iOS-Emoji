@@ -12,10 +12,12 @@ Systemlessly replaces the Android emoji font with iOS Emoji.
 ## Compatibility
 - **Magisk Version**: Requires Magisk v24.0 or higher.
 - **Android Version**: Tested on Android 10 and above. May work on older versions, but not guaranteed.
-- **Devices**: Works on most devices. Check the [Tested On](#tested-on) section for more details.
+- **Devices**: Works on most devices. Check the [Tested on](#tested-on) section for more details.
 
 ## Screenshots
-<img src="https://github.com/Keinta15/Magisk-iOS-Emoji/blob/main/Screenshots/iOS_Emoji_Screenshot.jpg" alt="iOS Emojis on Android" width="400" />  
+<img src="https://github.com/IslamAlorabI/Root-iOS-Emoji/blob/main/Screenshots/Root_iOS_Emoji_Gboard.png" alt="iOS Emojis on Gboard" width="400" /> <img src="https://github.com/IslamAlorabI/Root-iOS-Emoji/blob/main/Screenshots/Root_iOS_Emoji_Facebook.png" alt="iOS Emojis on Facebook" width="400" />
+<img src="https://github.com/IslamAlorabI/Root-iOS-Emoji/blob/main/Screenshots/Root_iOS_Emoji_Messanger.png" alt="iOS Emojis on Messanger" width="400" /> <img src="https://github.com/IslamAlorabI/Root-iOS-Emoji/blob/main/Screenshots/Root_iOS_Emoji_Instagram.png" alt="iOS Emojis on Instagram" width="400" /> 
+
 *Example of iOS emojis displayed on an Android device.*
 
 ## Changelog
