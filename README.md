@@ -15,8 +15,16 @@ Systemlessly replaces the Android emoji font with iOS Emoji.
 - **Devices**: Works on most devices. Check the [Tested on](#tested-on) section for more details.
 
 ## Screenshots
-<img src="https://github.com/IslamAlorabI/Root-iOS-Emoji/blob/main/Screenshots/Root_iOS_Emoji_Gboard.png" alt="iOS Emojis on Gboard" width="400" /> <img src="https://github.com/IslamAlorabI/Root-iOS-Emoji/blob/main/Screenshots/Root_iOS_Emoji_Facebook.png" alt="iOS Emojis on Facebook" width="400" />
-<img src="https://github.com/IslamAlorabI/Root-iOS-Emoji/blob/main/Screenshots/Root_iOS_Emoji_Messanger.png" alt="iOS Emojis on Messanger" width="400" /> <img src="https://github.com/IslamAlorabI/Root-iOS-Emoji/blob/main/Screenshots/Root_iOS_Emoji_Instagram.png" alt="iOS Emojis on Instagram" width="400" /> 
+<table>
+  <tr>
+    <td><img src="https://github.com/IslamAlorabI/Root-iOS-Emoji/blob/main/Screenshots/Root_iOS_Emoji_Gboard.png" width="300" height="225"></td>
+    <td><img src="https://github.com/IslamAlorabI/Root-iOS-Emoji/blob/main/Screenshots/Root_iOS_Emoji_Messanger.png" width="300" height="225"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/IslamAlorabI/Root-iOS-Emoji/blob/main/Screenshots/Root_iOS_Emoji_Instagram.png" width="300" height="225"></td>
+    <td><img src="https://github.com/IslamAlorabI/Root-iOS-Emoji/blob/main/Screenshots/Root_iOS_Emoji_Facebook.png" width="300" height="225"></td>
+  </tr>
+</table>
 
 *Example of iOS emojis displayed on an Android device.*
 
