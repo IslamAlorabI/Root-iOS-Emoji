@@ -2,6 +2,6 @@ id=Root-iOS-Emoji
 name=iOS 18.4 Emoji
 version=v18.4
 versionCode=18400
-author=Keinta1 & Islam AlorabI
+author=Keinta15 & Islam AlorabI
 description=Systemlessly replaces Android emoji font with iOS 18.4 Emoji
 updateJson=https://raw.githubusercontent.com/IslamAlorabI/Root-iOS-Emoji/main/updater.json
