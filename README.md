@@ -14,8 +14,8 @@ Systemlessly replaces the Android emoji font with iOS Emoji.
 - **Android Version**: Tested on Android 10 and above. May work on older versions, but not guaranteed.
 - **Devices**: Works on most devices. Check the [Tested On](#tested-on) section for more details.
 
-## Screenshot
-<img src="https://github.com/Keinta15/Magisk-iOS-Emoji/blob/main/iOS_Emoji_Screenshot.jpg" alt="iOS Emojis on Android" width="400" />  
+## Screenshots
+<img src="https://github.com/Keinta15/Magisk-iOS-Emoji/blob/main/Screenshots/iOS_Emoji_Screenshot.jpg" alt="iOS Emojis on Android" width="400" />  
 *Example of iOS emojis displayed on an Android device.*
 
 ## Changelog
